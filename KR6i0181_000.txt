@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金色童子因緣經
+#+DATE: 2015-08-30 20:12:04.144021
+#+PROPERTY: JUAN 0
