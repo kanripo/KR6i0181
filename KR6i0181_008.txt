@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:03.698286
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:49
 #+TITLE: 金色童子因緣經
 #+PROPERTY: CBETA_ID T14n0550
 #+PROPERTY: ID KR6i0181
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 550
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0181_T_000-0865a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0181_T_008-0880b> 
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《金色童子因緣經》卷第八¶
+《金色童子因緣經》卷第八¶
 譯經三藏朝散大夫試鴻¶
 臚卿光梵大師賜紫沙門¶
 臣惟淨等奉　詔譯¶
@@ -285,9 +284,9 @@
 　由宿業因所發起，
 　現受果報極廣大，¶
 　我今所感事雖然，
-　果報邊際亦不見。」
+　果報邊際亦不見。」」
 #+END_VERSE
-」¶
+¶
 
 時，金色尊者說是伽陀已，有無數百千俱胝¶
 廣多人眾，得聞如是昔未曾有無限量不思¶
@@ -296,7 +295,7 @@
 欲隨自力能而行布施，發大誓願作諸福事。¶
 
 爾時金色尊者，普為一切城中大眾無數種¶
-類，開發福行令生信重，如應宣說諸福事已，¶
+類，開發福門令生信重，如應宣說諸福事已，¶
 即運神力自空而還棄屍林中，向尊者阿難¶
 等諸苾芻眾，次第禮足，退坐一面。¶
 

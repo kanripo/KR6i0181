@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:03.588081
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:49
 #+TITLE: 金色童子因緣經
 #+PROPERTY: CBETA_ID T14n0550
 #+PROPERTY: ID KR6i0181
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 550
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0181_T_000-0865a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0181_T_003-0869a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《金色童子因緣經》卷第三¶
+《金色童子因緣經》卷第三¶
 ¶
 譯經三藏朝散大夫試鴻¶
 臚卿光梵大師賜紫沙門¶
@@ -151,9 +150,9 @@
 　此即乃行於非法，
 　正法隱沒或滅亡，¶
 　若今運用此功能，
-　我等咸生離散苦。」
+　我等咸生離散苦。」」
 #+END_VERSE
-」¶
+¶
 
 時諸人眾說伽陀已。城中復有諸女人眾，於¶
 此童子極生愛念，是中或有一類女人，以別¶
@@ -258,8 +257,8 @@
 　若復我心真實者，
 　怨亦如親無罪業，¶
 　我子因緣若實時，
-　願今脫免斯危難。」
+　願今脫免斯危難。」」
 #+END_VERSE
-」¶
+¶
 《金色童子因緣經》卷第三¶
 
