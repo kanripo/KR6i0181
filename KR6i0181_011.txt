@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 550
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0181_T_000-0865a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0181_T_011-0888a> ¶
 #+PROPERTY: JUAN 11
@@ -142,7 +142,7 @@
 以然者，我子本來容儀醜惡，汝今狀貌殊妙¶
 端嚴，因何醜陋成端嚴相？』
 
-「是時童子開熙怡¶
+「是時童子開[烈-列+(〡*(頤-頁+已))]怡¶
 目，即為商主說伽陀曰：¶
 
 #+BEGIN_VERSE
@@ -257,7 +257,7 @@
 淨信心，身毛喜豎，合掌遙向毘婆尸如來、應¶
 供、正等正覺，恭敬頂禮發如是言：『佛是不可¶
 思議大如意寶，能為無上最勝福田。』作是言¶
-已，面目熙怡如蓮花相，踊躍歡喜，說伽陀¶
+已，面目[烈-列+(〡*(頤-頁+已))]怡如蓮花相，踊躍歡喜，說伽陀¶
 曰：¶
 
 #+BEGIN_VERSE

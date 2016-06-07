@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 550
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0181_T_000-0865a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0181_T_005-0873a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
@@ -25,7 +25,7 @@
 伽陀曰：¶
 
 #+BEGIN_VERSE
-「　「苦哉！我子熙怡眼，
+「　「苦哉！我子[烈-列+(〡*(頤-頁+已))]怡眼，
 　苦哉！族中大莊嚴，¶
 　我為汝父福尠微，
 　為害汝故大號哭。¶

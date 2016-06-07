@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 550
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0181_T_000-0865a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0181_T_003-0869a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
@@ -200,7 +200,7 @@
 苦哉！大孝人！苦哉！多願求所獲之愛子！苦哉！¶
 妙相人所樂觀。苦哉！身支圓滿具足。苦哉！艶¶
 赫金色之身。苦哉！人眾悅目瞻覩。苦哉！眾中¶
-開熙怡目。苦哉！聰利有智之者，廣出無畏悅¶
+開[烈-列+(〡*(頤-頁+已))]怡目。苦哉！聰利有智之者，廣出無畏悅¶
 意善言。苦哉！廣有悲愍心者，法欲具足愛念¶
 眾生。苦哉！最上煥耀家族。苦哉！我之族中明¶
 炬。苦哉！我心所愛樂者。苦哉！我之心中大寶。¶

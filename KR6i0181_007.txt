@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 550
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0181_T_000-0865a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0181_T_007-0877c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
@@ -342,7 +342,7 @@
 爾時，日照商主說是伽陀讚尊者已，即同妻¶
 室前詣金色童子所，以子育之心增劇憐愛，¶
 趨前持抱再三撫惜，大喜增盈滿目垂淚。父¶
-母同時舉熙怡目諦觀童子，說伽陀曰：¶
+母同時舉[烈-列+(〡*(頤-頁+已))]怡目諦觀童子，說伽陀曰：¶
 
 #+BEGIN_VERSE
 「　「秋天滿月吉祥相，
